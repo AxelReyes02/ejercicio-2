@@ -1,0 +1,19 @@
+{
+  "name": "ejercicio-2",
+  "version": "1.0.0",
+  "description": "Instalación de dependencias",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "ejercicio2",
+    "node",
+    "ucamp",
+    "dependencias",
+    "individual",
+    "npm"
+  ],
+  "author": "Luis Axel Reyes Espinoza",
+  "license": "ISC"
+}
